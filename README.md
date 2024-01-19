@@ -33,15 +33,15 @@ tableSymbole/                  # Dossier regroupant les fichiers liés à la tab
 Bien que le projet ne soit pas encore achevé, 
 vous avez la possibilité d'exécuter les fichiers Main présents dans chacun des répertoires.
 
-``
-tableSymbole/    #            
+```
+tableSymbole/           
 |-- MainTableSymboles
-``
+```
 
-``
-code3adresses/  #                     
+```
+code3adresses/  
 |-- Main3Adresses.java
-``
+```
 
 ## Contribution
 
