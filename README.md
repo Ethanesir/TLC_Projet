@@ -33,17 +33,19 @@ tableSymbole/                  # Dossier regroupant les fichiers liés à la tab
 Bien que le projet ne soit pas encore achevé, 
 vous avez la possibilité d'exécuter les fichiers Main présents dans chacun des répertoires.
 
-``
-tableSymbole/    #            
+```
+tableSymbole/           
 |-- MainTableSymboles
-``
+```
 
-``
-code3adresses/  #                     
+```
+code3adresses/  
 |-- Main3Adresses.java
-``
+```
 
 ## Contribution
+Le projet est encore en cours, et nous vous invitons à nous rejoindre pour le faire évoluer ensemble ; 
+chaque contribution, petite ou grande, est la bienvenue pour faire de ce projet une réalité exceptionnelle !
 
 1. Fork le projet : (`https://github.com/Ethanesir/TLC_Projet`)
 2. Créez une branche (`git checkout -b meda`)
