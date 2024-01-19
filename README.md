@@ -54,4 +54,4 @@ chaque contribution, petite ou grande, est la bienvenue pour faire de ce projet 
 5. Ouvrez une Pull Request
 
 ## Licence
-openSource
+Ce projet est sous licence open source.
