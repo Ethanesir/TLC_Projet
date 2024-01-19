@@ -44,6 +44,8 @@ code3adresses/
 ```
 
 ## Contribution
+Le projet est encore en cours, et nous vous invitons à nous rejoindre pour le faire évoluer ensemble ; 
+chaque contribution, petite ou grande, est la bienvenue pour faire de ce projet une réalité exceptionnelle !
 
 1. Fork le projet : (`https://github.com/Ethanesir/TLC_Projet`)
 2. Créez une branche (`git checkout -b meda`)
