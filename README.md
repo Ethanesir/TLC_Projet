@@ -32,10 +32,10 @@ tableSymbole/                  # Ce repertoire régroupe :
 
 ## Contribution
 
-1. Fork le projet : (``)
-2. Créez une branche (`git checkout -b feature`)
+1. Fork le projet : (`https://github.com/Ethanesir/TLC_Projet`)
+2. Créez une branche (`git checkout -b meda`)
 3. Commit vos modifications (`git commit -m 'Ajout d'une fonctionnalité étonnante'`)
-4. Push sur la branche (`git push origin feature`)
+4. Push sur la branche (`git push origin meda`)
 5. Ouvrez une Pull Request
 
 ## Licence
